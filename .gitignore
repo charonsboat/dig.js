@@ -1,0 +1,6 @@
+# Vagrant
+.vagrant
+
+# Node
+node_modules
+*.log
