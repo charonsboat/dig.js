@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/drm2/dig.js.svg?branch=master)](https://travis-ci.org/drm2/dig.js)
+
 # dig.js
 
 Bring Ruby's **[Hash#dig](http://ruby-doc.org/core-2.3.0/Hash.html#method-i-dig)** method to JavaScript/Node.
