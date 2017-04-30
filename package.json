@@ -1,6 +1,6 @@
 {
   "name": "@drm2/dig.js",
-  "version": "v0.0.0",
+  "version": "v0.0.2",
   "description": "Bring Ruby's Hash#dig method to JavaScript/Node.",
   "main": "./dist/dig.js",
   "scripts": {
