@@ -4,6 +4,14 @@
 
 Bring Ruby's **[Hash#dig](http://ruby-doc.org/core-2.3.0/Hash.html#method-i-dig)** method to JavaScript/Node.
 
+## installation
+
+You can install this package via `npm`.
+
+```
+npm install --save @drm2/dig.js
+```
+
 ## usage
 
 You can use this library as a method of `Object` to make things more natural, or you can just use it as a standalone `function`.
